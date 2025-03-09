@@ -49,3 +49,4 @@ ev3.LogicMailbox("isReady", true);
 ```cpp
 ev3.NumericMailbox("speed", 42.5);
 ```
+![EV3_image](https://github.com/user-attachments/assets/66056f07-e7c4-4ea8-aac9-8e5185967bec)
