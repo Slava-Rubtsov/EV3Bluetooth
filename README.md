@@ -47,7 +47,7 @@ ev3.LogicMailbox("isReady", true);
 
 ### Send Numeric Message
 ```cpp
-ev3.NumericMailbox("speed", 42.5);
+ev3.NumericMailbox("speed", 3.14);
 ```
 ## Links:
 ### [Installing EV3 MicroPython](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3/)
